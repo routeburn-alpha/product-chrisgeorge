@@ -7,122 +7,212 @@
     {
       "id": "pl-1",
       "prompt": "Who is the Premier League's all-time top scorer?",
-      "choices": ["Wayne Rooney", "Alan Shearer", "Harry Kane", "Sergio Agüero"],
+      "choices": [
+        "Wayne Rooney",
+        "Alan Shearer",
+        "Harry Kane",
+        "Sergio Agüero"
+      ],
       "correctIndex": 1,
       "difficulty": 1,
-      "explanation": "Alan Shearer scored 260 Premier League goals, mostly with Newcastle United."
+      "explanation": "Alan Shearer scored 260 Premier League goals, mostly with Newcastle United.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-2",
       "prompt": "Which club won the inaugural Premier League title in the 1992–93 season?",
-      "choices": ["Arsenal", "Liverpool", "Manchester United", "Leeds United"],
+      "choices": [
+        "Arsenal",
+        "Liverpool",
+        "Manchester United",
+        "Leeds United"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "Manchester United, managed by Sir Alex Ferguson, won the first ever Premier League."
+      "explanation": "Manchester United, managed by Sir Alex Ferguson, won the first ever Premier League.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-3",
       "prompt": "Erling Haaland joined Manchester City in 2022 from which club?",
-      "choices": ["RB Leipzig", "Bayer Leverkusen", "Red Bull Salzburg", "Borussia Dortmund"],
+      "choices": [
+        "RB Leipzig",
+        "Bayer Leverkusen",
+        "Red Bull Salzburg",
+        "Borussia Dortmund"
+      ],
       "correctIndex": 3,
       "difficulty": 1,
-      "explanation": "Haaland transferred from Borussia Dortmund and won the Golden Boot in his first PL season."
+      "explanation": "Haaland transferred from Borussia Dortmund and won the Golden Boot in his first PL season.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-4",
       "prompt": "Which stadium is home to Liverpool FC?",
-      "choices": ["Anfield", "Goodison Park", "Old Trafford", "Stamford Bridge"],
+      "choices": [
+        "Anfield",
+        "Goodison Park",
+        "Old Trafford",
+        "Stamford Bridge"
+      ],
       "correctIndex": 0,
       "difficulty": 1,
-      "explanation": "Anfield has been Liverpool's home since 1892."
+      "explanation": "Anfield has been Liverpool's home since 1892.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-5",
       "prompt": "Who has won the most Premier League Golden Boots?",
-      "choices": ["Thierry Henry", "Alan Shearer", "Harry Kane", "Both Henry and Shearer are tied"],
+      "choices": [
+        "Thierry Henry",
+        "Alan Shearer",
+        "Harry Kane",
+        "Both Henry and Shearer are tied"
+      ],
       "correctIndex": 3,
       "difficulty": 2,
-      "explanation": "Thierry Henry and Alan Shearer are tied on four Golden Boots each."
+      "explanation": "Thierry Henry and Alan Shearer are tied on four Golden Boots each.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-6",
       "prompt": "Mohamed Salah's national team is:",
-      "choices": ["Morocco", "Algeria", "Egypt", "Tunisia"],
+      "choices": [
+        "Morocco",
+        "Algeria",
+        "Egypt",
+        "Tunisia"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "Salah captains the Egyptian national team."
+      "explanation": "Salah captains the Egyptian national team.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-7",
       "prompt": "Which club is nicknamed 'The Seagulls'?",
-      "choices": ["Bournemouth", "Brighton & Hove Albion", "Crystal Palace", "Southampton"],
+      "choices": [
+        "Bournemouth",
+        "Brighton & Hove Albion",
+        "Crystal Palace",
+        "Southampton"
+      ],
       "correctIndex": 1,
       "difficulty": 2,
-      "explanation": "Brighton & Hove Albion, named for their coastal home."
+      "explanation": "Brighton & Hove Albion, named for their coastal home.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-8",
       "prompt": "Which player holds the record for most Premier League appearances?",
-      "choices": ["James Milner", "Gareth Barry", "Ryan Giggs", "Frank Lampard"],
+      "choices": [
+        "James Milner",
+        "Gareth Barry",
+        "Ryan Giggs",
+        "Frank Lampard"
+      ],
       "correctIndex": 1,
       "difficulty": 3,
-      "explanation": "Gareth Barry made 653 PL appearances across Aston Villa, Manchester City, Everton, and West Brom."
+      "explanation": "Gareth Barry made 653 PL appearances across Aston Villa, Manchester City, Everton, and West Brom.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-9",
       "prompt": "Which manager led Leicester City to their fairytale 2015–16 title?",
-      "choices": ["Brendan Rodgers", "Claudio Ranieri", "Nigel Pearson", "Roberto Martínez"],
+      "choices": [
+        "Brendan Rodgers",
+        "Claudio Ranieri",
+        "Nigel Pearson",
+        "Roberto Martínez"
+      ],
       "correctIndex": 1,
       "difficulty": 2,
-      "explanation": "Claudio Ranieri's Leicester won the title at 5000-1 preseason odds."
+      "explanation": "Claudio Ranieri's Leicester won the title at 5000-1 preseason odds.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-10",
       "prompt": "What is the largest stadium currently used in the Premier League by capacity?",
-      "choices": ["Etihad Stadium", "Tottenham Hotspur Stadium", "Old Trafford", "London Stadium"],
+      "choices": [
+        "Etihad Stadium",
+        "Tottenham Hotspur Stadium",
+        "Old Trafford",
+        "London Stadium"
+      ],
       "correctIndex": 2,
       "difficulty": 2,
-      "explanation": "Old Trafford holds approximately 74,000."
+      "explanation": "Old Trafford holds approximately 74,000.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-11",
       "prompt": "Which club won four Premier League titles in a row from 2020–21 to 2023–24?",
-      "choices": ["Manchester United", "Liverpool", "Chelsea", "Manchester City"],
+      "choices": [
+        "Manchester United",
+        "Liverpool",
+        "Chelsea",
+        "Manchester City"
+      ],
       "correctIndex": 3,
       "difficulty": 2,
-      "explanation": "Manchester City's four consecutive titles is a PL record."
+      "explanation": "Manchester City's four consecutive titles is a PL record.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-12",
       "prompt": "Newcastle United play their home games at:",
-      "choices": ["St James' Park", "Stadium of Light", "St Mary's", "Goodison Park"],
+      "choices": [
+        "St James' Park",
+        "Stadium of Light",
+        "St Mary's",
+        "Goodison Park"
+      ],
       "correctIndex": 0,
       "difficulty": 1,
-      "explanation": "St James' Park has been Newcastle's home since 1892."
+      "explanation": "St James' Park has been Newcastle's home since 1892.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-13",
       "prompt": "Who is Arsenal's all-time leading goal scorer in the Premier League era?",
-      "choices": ["Robin van Persie", "Ian Wright", "Dennis Bergkamp", "Thierry Henry"],
+      "choices": [
+        "Robin van Persie",
+        "Ian Wright",
+        "Dennis Bergkamp",
+        "Thierry Henry"
+      ],
       "correctIndex": 3,
       "difficulty": 2,
-      "explanation": "Thierry Henry is Arsenal's all-time top scorer with 228 goals across all competitions."
+      "explanation": "Thierry Henry is Arsenal's all-time top scorer with 228 goals across all competitions.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-14",
       "prompt": "In what year was the Premier League founded?",
-      "choices": ["1988", "1990", "1992", "1995"],
+      "choices": [
+        "1988",
+        "1990",
+        "1992",
+        "1995"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "The Premier League was founded in February 1992."
+      "explanation": "The Premier League was founded in February 1992.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "pl-15",
       "prompt": "Which goalkeeper has the most Premier League clean sheets all-time?",
-      "choices": ["David Seaman", "Petr Čech", "Edwin van der Sar", "David de Gea"],
+      "choices": [
+        "David Seaman",
+        "Petr Čech",
+        "Edwin van der Sar",
+        "David de Gea"
+      ],
       "correctIndex": 1,
       "difficulty": 3,
-      "explanation": "Petr Čech finished his career with 202 PL clean sheets, a league record."
+      "explanation": "Petr Čech finished his career with 202 PL clean sheets, a league record.",
+      "questionType": "arsenal_general"
     }
   ]
 }

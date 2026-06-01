@@ -7,82 +7,142 @@
     {
       "id": "ne-1",
       "prompt": "Tropical orange-fleshed stone fruit, five letters:",
-      "choices": ["Peach", "Mango", "Guava", "Melon"],
+      "choices": [
+        "Peach",
+        "Mango",
+        "Guava",
+        "Melon"
+      ],
       "correctIndex": 1,
       "difficulty": 1,
-      "explanation": "Mango — five letters, fits the clue."
+      "explanation": "Mango — five letters, fits the clue.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-2",
       "prompt": "Largest planet in our solar system:",
-      "choices": ["Saturn", "Neptune", "Earth", "Jupiter"],
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Earth",
+        "Jupiter"
+      ],
       "correctIndex": 3,
       "difficulty": 1,
-      "explanation": "Jupiter is the largest, with a mass greater than all other planets combined."
+      "explanation": "Jupiter is the largest, with a mass greater than all other planets combined.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-3",
       "prompt": "Capital of France:",
-      "choices": ["Lyon", "Marseille", "Paris", "Nice"],
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Nice"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "Paris."
+      "explanation": "Paris.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-4",
       "prompt": "Number of sides on a hexagon:",
-      "choices": ["Five", "Six", "Seven", "Eight"],
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
       "correctIndex": 1,
       "difficulty": 1,
-      "explanation": "Hex- = six. Octagon has eight, pentagon has five."
+      "explanation": "Hex- = six. Octagon has eight, pentagon has five.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-5",
       "prompt": "Which of these is a primary color?",
-      "choices": ["Green", "Orange", "Yellow", "Purple"],
+      "choices": [
+        "Green",
+        "Orange",
+        "Yellow",
+        "Purple"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "The three primary colors of light are red, green, and blue; in paint they are red, yellow, and blue. Yellow is the only primary in this list."
+      "explanation": "The three primary colors of light are red, green, and blue; in paint they are red, yellow, and blue. Yellow is the only primary in this list.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-6",
       "prompt": "Author of 'Romeo and Juliet':",
-      "choices": ["Charles Dickens", "Jane Austen", "Mark Twain", "William Shakespeare"],
+      "choices": [
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain",
+        "William Shakespeare"
+      ],
       "correctIndex": 3,
       "difficulty": 1,
-      "explanation": "Shakespeare wrote it around 1595."
+      "explanation": "Shakespeare wrote it around 1595.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-7",
       "prompt": "Smallest U.S. state by area:",
-      "choices": ["Delaware", "Connecticut", "Rhode Island", "Hawaii"],
+      "choices": [
+        "Delaware",
+        "Connecticut",
+        "Rhode Island",
+        "Hawaii"
+      ],
       "correctIndex": 2,
       "difficulty": 2,
-      "explanation": "Rhode Island is about 1,545 square miles."
+      "explanation": "Rhode Island is about 1,545 square miles.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-8",
       "prompt": "Currency used in Japan:",
-      "choices": ["Won", "Yuan", "Yen", "Ringgit"],
+      "choices": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ringgit"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "The yen has been Japan's currency since 1871."
+      "explanation": "The yen has been Japan's currency since 1871.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-9",
       "prompt": "Tallest mountain on Earth, measured from sea level:",
-      "choices": ["K2", "Mount Everest", "Kangchenjunga", "Denali"],
+      "choices": [
+        "K2",
+        "Mount Everest",
+        "Kangchenjunga",
+        "Denali"
+      ],
       "correctIndex": 1,
       "difficulty": 1,
-      "explanation": "Everest stands at 8,849 metres."
+      "explanation": "Everest stands at 8,849 metres.",
+      "questionType": "arsenal_general"
     },
     {
       "id": "ne-10",
       "prompt": "How many continents are there?",
-      "choices": ["Five", "Six", "Seven", "Eight"],
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
       "correctIndex": 2,
       "difficulty": 1,
-      "explanation": "Africa, Antarctica, Asia, Australia, Europe, North America, and South America."
+      "explanation": "Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+      "questionType": "arsenal_general"
     }
   ]
 }

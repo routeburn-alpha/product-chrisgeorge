@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tottenham",
+    "name": "Tottenham Hotspur",
+    "nickname": "Spurs",
+    "primaryColor": "#132257",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "nickname": "The Blues",
+    "primaryColor": "#034694",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "manchester-united",
+    "name": "Manchester United",
+    "nickname": "The Red Devils",
+    "primaryColor": "#DA291C",
+    "secondaryColor": "#FFE500"
+  },
+  {
+    "id": "manchester-city",
+    "name": "Manchester City",
+    "nickname": "The Citizens",
+    "primaryColor": "#6CABDD",
+    "secondaryColor": "#1C2C5B"
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "nickname": "The Reds",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#F6EB61"
+  }
+]
