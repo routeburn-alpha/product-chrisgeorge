@@ -1,0 +1,208 @@
+{
+  "id": "arsenal-rivals",
+  "title": "Arsenal Rivals: Hall of Shame",
+  "category": "Sports",
+  "description": "A schadenfreude-fuelled tour of trophy droughts, humiliating defeats, and unfortunate records from Arsenal's biggest rivals. Enjoy.",
+  "questions": [
+    {
+      "id": "ar-1",
+      "prompt": "How long has Tottenham Hotspur gone without winning a league title as of the 2024-25 season?",
+      "choices": ["30 years", "40 years", "Over 60 years", "Over 80 years"],
+      "correctIndex": 2,
+      "difficulty": 1,
+      "explanation": "Spurs' last league championship was the First Division title in 1960-61. They have never won the Premier League."
+    },
+    {
+      "id": "ar-2",
+      "prompt": "Harry Kane spent 20 years at Tottenham without winning a single trophy. Which club did he finally join in 2023 to escape the silverware drought?",
+      "choices": ["Real Madrid", "Paris Saint-Germain", "Bayern Munich", "Manchester City"],
+      "correctIndex": 2,
+      "difficulty": 1,
+      "explanation": "Kane joined Bayern Munich in August 2023 for £100m, departing Spurs as their all-time top scorer but trophyless. In his first Bundesliga season Bayern also finished runners-up, continuing the curse."
+    },
+    {
+      "id": "ar-3",
+      "prompt": "By what humiliating scoreline did Bayern Munich defeat Tottenham in a 2019-20 Champions League group stage match at Spurs' brand new stadium?",
+      "choices": ["3-1", "5-2", "7-2", "6-1"],
+      "correctIndex": 2,
+      "difficulty": 2,
+      "explanation": "Bayern thrashed Spurs 7-2 at the Tottenham Hotspur Stadium in October 2019, a result so bad that then-manager Mauricio Pochettino described it as one of the most difficult nights of his career."
+    },
+    {
+      "id": "ar-4",
+      "prompt": "Tottenham famously 'did it again' in 2016, blowing a chance to win their first title in 55 years. Which club pipped them to the Premier League title that season?",
+      "choices": ["Arsenal", "Manchester City", "Chelsea", "Leicester City"],
+      "correctIndex": 3,
+      "difficulty": 2,
+      "explanation": "5000-1 outsiders Leicester City won the 2015-16 Premier League title while Spurs imploded. The phrase 'Spursy' was coined to describe their habit of failing at the crucial moment."
+    },
+    {
+      "id": "ar-5",
+      "prompt": "Manchester United have not won the Premier League since which season?",
+      "choices": ["2010-11", "2011-12", "2012-13", "2013-14"],
+      "correctIndex": 2,
+      "difficulty": 1,
+      "explanation": "Manchester United last won the Premier League in 2012-13, Sir Alex Ferguson's final season. It was their 20th English league title. They have not won it since."
+    },
+    {
+      "id": "ar-6",
+      "prompt": "In Ole Gunnar Solskjaer's final Premier League match in charge, Manchester United were humiliated at Old Trafford. What was the scoreline?",
+      "choices": ["Liverpool 4-0 Man United", "Man United 0-5 Liverpool", "Man City 5-0 Man United", "Man United 0-4 Everton"],
+      "correctIndex": 1,
+      "difficulty": 2,
+      "explanation": "Liverpool demolished Manchester United 5-0 at Old Trafford in October 2021. Mohamed Salah scored a hat-trick. Solskjaer was sacked a fortnight later after a 4-1 defeat at Watford."
+    },
+    {
+      "id": "ar-7",
+      "prompt": "On the opening weekend of the 2022-23 Premier League season, newly promoted Brentford inflicted an embarrassing defeat on Manchester United. What was the score?",
+      "choices": ["2-0", "3-0", "4-0", "5-0"],
+      "correctIndex": 2,
+      "difficulty": 2,
+      "explanation": "Brentford beat Manchester United 4-0 at the Gtech Community Stadium on 13 August 2022 — a humiliating start to a dire season for Ole's successors."
+    },
+    {
+      "id": "ar-8",
+      "prompt": "In March 2023, Manchester United suffered their heaviest ever defeat to Liverpool. What was the final score?",
+      "choices": ["5-0", "6-1", "7-0", "6-0"],
+      "correctIndex": 2,
+      "difficulty": 2,
+      "explanation": "Liverpool 7-0 Manchester United at Anfield on 5 March 2023. Cody Gakpo, Darwin Núñez, and Roberto Firmino scored in a historic rout."
+    },
+    {
+      "id": "ar-9",
+      "prompt": "In October 2022, Manchester City beat Manchester United in the Manchester derby. What was the score?",
+      "choices": ["4-1", "5-2", "6-3", "3-0"],
+      "correctIndex": 2,
+      "difficulty": 2,
+      "explanation": "Manchester City beat Manchester United 6-3 at the Etihad in October 2022. Erling Haaland scored twice and Phil Foden got a hat-trick."
+    },
+    {
+      "id": "ar-10",
+      "prompt": "What was Manchester United's worst ever Premier League finish, which they achieved in the 2023-24 season?",
+      "choices": ["6th", "7th", "8th", "10th"],
+      "correctIndex": 2,
+      "difficulty": 3,
+      "explanation": "Manchester United finished 8th in the 2023-24 Premier League season — their worst-ever top-flight finish in the Premier League era, despite spending hundreds of millions of pounds."
+    },
+    {
+      "id": "ar-11",
+      "prompt": "Which embarrassing record does Chelsea hold after their 2022-23 Premier League season despite spending over £600 million on transfers over two windows?",
+      "choices": ["First club relegated after a £500m spend", "Lowest points tally after a £600m spend", "Finished 12th — their lowest PL placing since 1994", "Conceded 100 goals in a single season"],
+      "correctIndex": 2,
+      "difficulty": 2,
+      "explanation": "Chelsea finished 12th in 2022-23 — their lowest league finish in nearly three decades — despite record transfer spending. They hired and fired multiple managers in the process."
+    },
+    {
+      "id": "ar-12",
+      "prompt": "How many managers did Chelsea go through during the 2022-23 season?",
+      "choices": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "difficulty": 2,
+      "explanation": "Chelsea used three managers in 2022-23: Thomas Tuchel (sacked September 2022), Graham Potter (hired then sacked in April 2023 after just 31 games), and caretaker Frank Lampard, who failed to keep them out of 12th."
+    },
+    {
+      "id": "ar-13",
+      "prompt": "Chelsea owner Roman Abramovich was forced to sell the club in 2022. What event directly triggered the UK government's sanctions that made the sale necessary?",
+      "choices": ["FIFA corruption investigation", "Russia's invasion of Ukraine", "Premier League financial rules breach", "Money laundering charges"],
+      "correctIndex": 1,
+      "difficulty": 1,
+      "explanation": "Following Russia's invasion of Ukraine in February 2022, the UK government sanctioned Roman Abramovich. Chelsea were forbidden from selling tickets or merchandise and Abramovich was forced to sell the club."
+    },
+    {
+      "id": "ar-14",
+      "prompt": "Graham Potter was Chelsea's big-money hire by the new US owners in September 2022. How many games did he last before being sacked?",
+      "choices": ["18 games", "31 games", "44 games", "52 games"],
+      "correctIndex": 1,
+      "difficulty": 2,
+      "explanation": "Graham Potter lasted just 31 games as Chelsea manager before being sacked in April 2023. He was paid handsomely to leave Brighton, then paid handsomely to go. Chelsea's ownership burned through managers and hundreds of millions of pounds while finishing 12th."
+    },
+    {
+      "id": "ar-15",
+      "prompt": "In which year were Tottenham Hotspur last relegated from the top flight of English football?",
+      "choices": ["1975", "1977", "1993", "2001"],
+      "correctIndex": 1,
+      "difficulty": 3,
+      "explanation": "Tottenham were relegated from Division One in 1977, finishing 22nd. They bounced back immediately, winning the Second Division the following year."
+    },
+    {
+      "id": "ar-16",
+      "prompt": "Manchester United were relegated to the Second Division in 1974. Which manager was in charge for that shameful campaign?",
+      "choices": ["Ron Atkinson", "Tommy Docherty", "Dave Sexton", "Wilf McGuinness"],
+      "correctIndex": 1,
+      "difficulty": 3,
+      "explanation": "Tommy Docherty was manager when United were relegated at the end of the 1973-74 season — a low point for the club. To his credit, Docherty stayed on and won them promotion as Second Division champions the following year."
+    },
+    {
+      "id": "ar-17",
+      "prompt": "Which club did Tottenham famously sell to Arsenal in a landmark 2001 transfer, infuriating their own fans?",
+      "choices": ["Ledley King", "Sol Campbell", "Michael Carrick", "Robbie Keane"],
+      "correctIndex": 1,
+      "difficulty": 1,
+      "explanation": "Sol Campbell walked out of Spurs on a free transfer and joined bitter rivals Arsenal in July 2001 — one of the most controversial transfers in Premier League history. He went on to win the double with Arsenal."
+    },
+    {
+      "id": "ar-18",
+      "prompt": "Tottenham's record in north London derbies against Arsenal in the Premier League is one reason for their inferiority complex. How many times have Spurs finished above Arsenal in the Premier League?",
+      "choices": ["Never", "Once", "Twice", "Three times"],
+      "correctIndex": 1,
+      "difficulty": 3,
+      "explanation": "Tottenham finished above Arsenal in the Premier League only once — in 2016-17. Arsenal fans refer to this as 'the year that shall not be mentioned' for obvious reasons. Every other season, Arsenal have ended above their rivals."
+    },
+    {
+      "id": "ar-19",
+      "prompt": "Chelsea's record signing in 2022 cost £106.8 million. Which player, who subsequently struggled, was this enormous fee spent on?",
+      "choices": ["Wesley Fofana", "Enzo Fernandez", "Mykhailo Mudryk", "Marc Cucurella"],
+      "correctIndex": 0,
+      "difficulty": 3,
+      "explanation": "Wesley Fofana joined Chelsea from Leicester City for £106.8m in August 2022. He suffered multiple serious injuries and played just a handful of matches in two seasons."
+    },
+    {
+      "id": "ar-20",
+      "prompt": "During Manchester United's decline after Ferguson, how many permanent managers did they employ up to and including Ruben Amorim's appointment in late 2024?",
+      "choices": ["Four", "Five", "Six", "Seven"],
+      "correctIndex": 1,
+      "difficulty": 3,
+      "explanation": "United employed five permanent managers after Ferguson: David Moyes, Louis van Gaal, José Mourinho, Ole Gunnar Solskjaer, Erik ten Hag — then Ruben Amorim. A costly parade of failures in contrast to Arsenal's stability under Arteta."
+    },
+    {
+      "id": "ar-21",
+      "prompt": "Tottenham opened their new 62,000-seat stadium in 2019. Despite its lavishness, what did Spurs notably lack in their trophy cabinet that season?",
+      "choices": ["A shirt sponsor", "A main stand", "Any silverware whatsoever", "A stadium name"],
+      "correctIndex": 2,
+      "difficulty": 1,
+      "explanation": "Spurs moved into one of the world's finest new stadiums in 2019 — but had nothing to put in the trophy cabinet. In the same year they lost the Champions League final. The stadium, still without a naming-rights sponsor, is often described as the most beautiful monument to mediocrity in football."
+    },
+    {
+      "id": "ar-22",
+      "prompt": "What do Tottenham fans call the trophy they 'win' every season they finish fourth in the Premier League?",
+      "choices": ["The Top Four Cup", "The Participation Shield", "The Top Four Trophy", "The Spursy Medal"],
+      "correctIndex": 2,
+      "difficulty": 1,
+      "explanation": "The 'Top Four Trophy' is the sardonic term for Spurs' habit of celebrating fourth-place finishes as though they were silverware — a meme Arsenal and other rivals use to wind up Spurs supporters."
+    },
+    {
+      "id": "ar-23",
+      "prompt": "Tottenham reached the 2019 Champions League final — their first ever. Which club denied them the trophy with a 2-0 win?",
+      "choices": ["Barcelona", "Bayern Munich", "Manchester City", "Liverpool"],
+      "correctIndex": 3,
+      "difficulty": 1,
+      "explanation": "Liverpool beat Tottenham 2-0 in the 2019 Champions League final in Madrid. Mohamed Salah scored a penalty after just 2 minutes. It remains Spurs' only Champions League final — they blew their best chance at European glory."
+    },
+    {
+      "id": "ar-24",
+      "prompt": "Manchester United conceded 58 Premier League goals in 2023-24 — their most in the PL era. How many points did they finish with, equalling their worst-ever PL points tally?",
+      "choices": ["42 points", "48 points", "52 points", "60 points"],
+      "correctIndex": 3,
+      "difficulty": 3,
+      "explanation": "Manchester United managed just 60 points in 2023-24 while conceding 58 goals — a wretched combination that left them 8th, their worst Premier League finish ever. For context, Arsenal finished 2nd with 89 points."
+    },
+    {
+      "id": "ar-25",
+      "prompt": "Which Arsenal legend joined rivals Tottenham in 1977 in a move Arsenal fans still regard as treachery?",
+      "choices": ["Pat Jennings", "Liam Brady", "Frank Stapleton", "Alan Ball"],
+      "correctIndex": 0,
+      "difficulty": 2,
+      "explanation": "Goalkeeper Pat Jennings was controversially sold by Arsenal to Tottenham in 1977 — a decision Arsenal would rue as Jennings excelled at White Hart Lane for eight more years, becoming one of the most celebrated keepers of his era."
+    }
+  ]
+}
