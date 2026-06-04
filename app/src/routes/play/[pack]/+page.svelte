@@ -190,15 +190,15 @@
 	}
 
 	.choice.correct {
-		border-color: #16a34a;
-		background: #f0fdf4;
-		color: #14532d;
+		border-color: #1d4ed8;
+		background: #eff6ff;
+		color: #1e3a8a;
 	}
 
 	.choice.wrong {
-		border-color: #dc2626;
-		background: #fef2f2;
-		color: #7f1d1d;
+		border-color: #d97706;
+		background: #fffbeb;
+		color: #92400e;
 	}
 
 	.letter {
@@ -216,12 +216,12 @@
 	}
 
 	.choice.correct .letter {
-		background: #16a34a;
+		background: #1d4ed8;
 		color: #fff;
 	}
 
 	.choice.wrong .letter {
-		background: #dc2626;
+		background: #d97706;
 		color: #fff;
 	}
 
@@ -238,13 +238,13 @@
 	}
 
 	.explanation.correct {
-		background: #f0fdf4;
-		color: #14532d;
+		background: #eff6ff;
+		color: #1e3a8a;
 	}
 
 	.explanation.wrong {
-		background: #fef2f2;
-		color: #7f1d1d;
+		background: #fffbeb;
+		color: #92400e;
 	}
 
 	.next {
