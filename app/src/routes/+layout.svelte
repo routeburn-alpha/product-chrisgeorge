@@ -17,9 +17,13 @@
 {@render children()}
 
 <style>
+	:global(:root) {
+		--color-page: hsl(270, 40%, 96%);
+	}
+
 	:global(body) {
 		margin: 0;
-		background: #fafafa;
+		background: var(--color-page);
 	}
 
 	.top-nav {
