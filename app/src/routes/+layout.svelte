@@ -19,7 +19,7 @@
 <style>
 	:global(body) {
 		margin: 0;
-		background: #fafafa;
+		background: #e8f5e9;
 	}
 
 	.top-nav {
